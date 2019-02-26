@@ -1,6 +1,6 @@
 import random
 
-chars = 'abcdefghijklmnopqrstuvwxyz0123456789'
+chars = '`¬!"£$%^&*()_+{}@~:>?<-=[];#./abcdefghijklmnopqrstuvwxyz0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 password = ''
 
 choice = input('Specify password length: ')
